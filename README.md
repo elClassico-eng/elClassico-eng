@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E85002&height=200&section=header&text=Danya%20Cherkesov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20TypeScript%20%C2%B7%20Nuxt%20%C2%B7%20Volgograd&descAlignY=58&descSize=18" width="100%" alt="Danya Cherkesov">
 
+<p align="right"><b>English</b> · <a href="https://github.com/elClassico-eng/elClassico-eng/blob/main/README.ru.md">Русский</a></p>
+
 Frontend engineer moving into full-stack TypeScript. I build product UI with Nuxt and Vue, and lately the backend behind it: Nitro, PostgreSQL, background jobs, CI and deploy.
 
 Currently building **Takt**, a Scrumban platform for IT teams and my master's thesis at Volgograd State University.
