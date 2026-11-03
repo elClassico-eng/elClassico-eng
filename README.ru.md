@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E85002&height=200&section=header&text=%D0%94%D0%B0%D0%BD%D1%8F%20%D0%A7%D0%B5%D1%80%D0%BA%D0%B5%D1%81%D0%BE%D0%B2&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20TypeScript%20%C2%B7%20Nuxt%20%C2%B7%20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&descAlignY=58&descSize=18" width="100%" alt="Даня Черкесов">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E85002&height=200&section=header&text=%D0%94%D0%B0%D0%BD%D1%8F%20%D0%A7%D0%B5%D1%80%D0%BA%D0%B5%D1%81%D0%BE%D0%B2&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20Vue%20%C2%B7%20Nuxt%20%C2%B7%20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&descAlignY=58&descSize=18" width="100%" alt="Даня Черкесов">
 
 <p align="right"><a href="https://github.com/elClassico-eng">English</a> · <b>Русский</b></p>
 
-Frontend-разработчик, расту в full-stack TypeScript. Делаю продуктовый интерфейс на Nuxt и Vue, а в последнее время и бэкенд под ним: Nitro, PostgreSQL, фоновые задачи, CI и деплой.
+Frontend-разработчик. Делаю продуктовый интерфейс на Vue и Nuxt с TypeScript. В дипломном проекте сам проектировал схему БД на PostgreSQL и разбирался с Nitro API, так что понимаю, как устроена серверная часть.
 
 Сейчас делаю **Takt** – Scrumban-платформу для IT-команд и свою магистерскую ВКР в ВолГУ.
 
 ### Стек
 
-<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,nodejs,postgres,docker,githubactions&theme=dark" alt="TypeScript, Vue, Nuxt, Tailwind, Node.js, PostgreSQL, Docker, GitHub Actions">
+<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,postgres&theme=dark" alt="TypeScript, Vue, Nuxt, Tailwind, PostgreSQL">
 
 ### Главный проект: Takt
 

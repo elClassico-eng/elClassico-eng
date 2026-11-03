@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E85002&height=200&section=header&text=Danya%20Cherkesov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20TypeScript%20%C2%B7%20Nuxt%20%C2%B7%20Volgograd&descAlignY=58&descSize=18" width="100%" alt="Danya Cherkesov">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E85002&height=200&section=header&text=Danya%20Cherkesov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20Vue%20%C2%B7%20Nuxt%20%C2%B7%20Volgograd&descAlignY=58&descSize=18" width="100%" alt="Danya Cherkesov">
 
 <p align="right"><b>English</b> · <a href="https://github.com/elClassico-eng/elClassico-eng/blob/main/README.ru.md">Русский</a></p>
 
-Frontend engineer moving into full-stack TypeScript. I build product UI with Nuxt and Vue, and lately the backend behind it: Nitro, PostgreSQL, background jobs, CI and deploy.
+Frontend developer. I build product UI with Vue and Nuxt in TypeScript. In my thesis project I also designed the PostgreSQL schema and worked with the Nitro API, so I know how the backend side fits together.
 
 Currently building **Takt**, a Scrumban platform for IT teams and my master's thesis at Volgograd State University.
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,nodejs,postgres,docker,githubactions&theme=dark" alt="TypeScript, Vue, Nuxt, Tailwind, Node.js, PostgreSQL, Docker, GitHub Actions">
+<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,postgres&theme=dark" alt="TypeScript, Vue, Nuxt, Tailwind, PostgreSQL">
 
 ### Featured: Takt
 
